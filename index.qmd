@@ -8,7 +8,7 @@ format:
           caption: none
     toc: true
     toc-title: On this page
-    css: styles.css
+    css: src/styles.css
     other-links:
       - text: +31 6 22 71 27 19
         icon: telephone
@@ -31,11 +31,11 @@ format:
     title-block-banner-color: "white"
     theme: 
       - lumen
-      - custom.scss
+      - src/custom.scss
     format-links:
       - html
       - text: PDF
-        href: https://github.com/WE2424/WE2424.github.io
+        href: src/CV_WimVanDuuren.pdf
         icon: file-earmark-pdf
   pdf: default
 ---
