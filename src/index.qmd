@@ -1,0 +1,197 @@
+---
+title: "Wim van Duuren"
+format:
+  html:
+    code-tools:
+          source: true
+          toggle: false
+          caption: none
+    toc: true
+    toc-title: On this page
+    css: styles.css
+    other-links:
+      - text: +31 6 22 71 27 19
+        icon: telephone
+        href: tel:+31622712719
+      - text: wimevanduuren@gmail.com
+        icon: envelope
+        href: mailto:wimevanduuren@gmail.com
+      - text: wimvanduuren
+        icon: linkedin
+        href: https://linkedin.com/in/wimvanduuren
+      - text: WE2424
+        icon: github
+        href: https://github.com/WE2424/
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^_'
+    embed-resources: true
+    title-block-banner: true
+    title-block-banner-color: "white"
+    theme: 
+      - lumen
+      - custom.scss
+    format-links:
+      - html
+      - text: PDF
+        href: https://github.com/WE2424/WE2424.github.io
+        icon: file-earmark-pdf
+  pdf: default
+---
+
+## About me
+**Aspiring Data Scientist** with a strong background in Econometrics and Software Development. Practical experience at the Ministry of Finance and both universities with large datasets and statistical problems. Skilled in supervised and unsupervised learning, algorithms and statistical modeling. Fluent in many programming languages, such as **Python, R, and SQL**, allowing quickly for a useful contribution within an organization. **Hardworking, reliable, and eager** to apply analytical and programming skills in a Data
+Science internship.
+
+## Education
+
+### M. Econometrics, Statistics - Data Science for Social Sciences
+<div class="topic-line">
+  <div>Toulouse School of Economics</div>
+  <div>Sep. 2025 – Present</div>
+</div>
+- Courses: Stochastic Methods for Optimization and Sampling, High-dimensional Data Analysis and Machine Learning, Martingales Theory and Applications
+- Skills: **R, Data Analysis, Machine Learning**
+
+### B.Sc. Econometrics and Operations Research
+<div class="topic-line">
+  <div>Tilburg University</div>
+  <div>Sep. 2019 – Jan. 2025</div>
+</div>
+
+- Courses: Operations Research Methods, Econometrics for Policy Analysis, Quantitative Finance,
+Computational Aspects in Econometrics
+- Skills: **Python, Problem Solving, Analytical Reasoning**
+
+## Work Experience
+
+### Software Development Trainee
+<div class="topic-line">
+  <div>Ministry of Finance</div>
+  <div>Sep. 2024 – Sep. 2025</div>
+</div>
+
+- Created and used large databases
+- Designed and implemented data handling solutions in .NET
+- Optimized the applications for over 12 million users yearly
+- Worked in a Scaled Agile Framework environment
+- Skills: **SQL, C#, Teamwork**
+
+### Mathematics Teacher
+<div class="topic-line">
+  <div>2College Cobbenhagenlyceum</div>
+  <div>Apr. 2021 – Jul. 2023</div>
+</div>
+
+- Taught pre-university level Mathematics at high school
+- Mentored students
+- Skills: **Presenting, Reliable, Leadership**
+
+## Projects and Research
+### [Interactive Wage Predictor: A Shiny Application | R](https://github.com/WE2424/InteractiveWagePredictor)
+<div class="topic-line">
+  <div>Toulouse School of Economics</div>
+  <div>Fall 2025</div>
+</div>
+
+- Built a Shiny web application to predict monthly wages from demographic and labor characteristics
+- Trained and compared Machine Learning models
+- Created dynamic visualizations and auto-updating avatars based on model features
+- Skills: **Linear Regression, Decision Tree, Random Forest**
+
+### [Support Vector Machines: Proposals For Dealing With Misclassifications | MATLAB](https://github.com/WE2424/SupportVectorMachinesMisclassifications)
+<div class="topic-line">
+  <div>Tilburg University</div>
+  <div>Fall 2024</div>
+</div>
+
+- Designed new SVMs mathematically to better handle misclassifications in datasets
+- Simulated datasets with overlapping classes, outliers, and mislabeled data points
+- Tested models and analyzed performance in supervised learning settings
+- Skills: **Supervised Learning, Mathematical Modeling, Experimental Design**
+
+### [Clustering Publications Using Scoring | Python, SQL](https://github.com/WE2424/ClusteringPublicationsUsingScoring)
+<div class="topic-line">
+  <div>Tilburg University</div>
+  <div>Fall 2023</div>
+</div>
+
+- Applied unsupervised learning techniques to cluster publications based on scoring metrics
+- Performed data cleaning and preprocessing on large raw publications dataset
+- Used SQL to retrieve and store data
+- Skills: **Unsupervised Learning, Data Engineering, Text Analysis**
+
+## Volunteering
+### Active Member 
+<div class="topic-line">
+  <div>TRB-RES | Swimming Club</div>
+  <div>Sep. 2020 – Jul. 2025</div>
+</div>
+
+- Organized activities and provided training for all ages
+- Skills: **Coaching, Training, Communication**
+
+### Active Member 
+<div class="topic-line">
+  <div>Asset Econometrics | Study Organization</div>
+  <div>Sep. 2019 – Aug. 2022</div>
+</div>
+
+- Organized informal activities for students
+- Skills: **Collaboration, Creativity, Networking**
+
+### Board Member
+<div class="topic-line">
+  <div>ZPC Woerden | Swimming Club</div>
+  <div>Sep. 2018 – Jul. 2020</div>
+</div>
+
+- Managed the activities of 200 members
+- Responsible for the training of the youth
+- Skills: **Management, Responsibility, Decision-making**
+
+## Certifications
+### [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-gb/WimvanDuuren-4968/DF92EF574DCC661D?sharingId=D6368C414E74239D){target="_blank"}
+<div class="topic-line">
+  <div>Microsoft</div>
+  <div>May 2025</div>
+</div>
+
+- Azure management and governance
+- Azure architecture and services
+- Cloud concepts
+
+### .NET Developer
+<div class="topic-line">
+  <div>Ministry of Finance, Info Support</div>
+  <div>Feb. 2025</div>
+</div>
+
+- Core programming and testing with C# and LINQ
+- Developing databases, writing queries and EF Core
+- Advanced programming with Multithreading in C#
+- Scrum, Continuous Delivery with Docker and Azure DevOps
+- Azure Development and Secure Programming
+
+## Languages
+
+- **Dutch** (native)
+- **English** (professional)
+- **French** (beginner)
+- **Italian** (beginner)
+
+<footer id="mobile-footer">
+<div>
+  <a href="tel:+31622712719"><i class="bi bi-telephone"></i> +31 6 22 71 27 19</a>
+</div>
+<div>
+  <a href="mailto:wimevanduuren@gmail.com"><i class="bi bi-envelope"></i> wimevanduuren@gmail.com</a> 
+</div>
+<div>
+  <a href="https://linkedin.com/in/wimvanduuren" target="_blank"><i class="bi bi-linkedin"></i> wimvanduuren</a> 
+</div>
+<div>
+  <a href="https://github.com/WE2424/" target="_blank"><i class="bi bi-github"></i> WE2424</a>
+</div>
+</footer>
