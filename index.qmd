@@ -35,7 +35,7 @@ format:
     format-links:
       - html
       - text: PDF
-        href: src/CV_WimVanDuuren.pdf
+        href: src/cv.pdf
         icon: file-earmark-pdf
   pdf: default
 ---
